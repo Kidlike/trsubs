@@ -1,0 +1,4 @@
+trsubs
+======
+
+translate subtitle files
